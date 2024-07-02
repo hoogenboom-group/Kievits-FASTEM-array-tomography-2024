@@ -21,5 +21,5 @@ pip install .
 ```
 
 ## Usage
-`mito-segmentation-calculate-statistics.ipynb` To calculate performance metrics as listed in Table 2 in the article
+`mito-segmentation-calculate-statistics.ipynb` To calculate performance metrics as listed in Table 2 in the article  
 `mito-segmentation-check.ipynb` To generate views from Figure 6 and Figure S5
